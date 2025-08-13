@@ -12,4 +12,10 @@
 
 *** You need to use postman in order to call rest services. There is a json file in the path: "src/main/resources/BrokerageFirmChallenge.postman_collection.json" you can import this file into your local postman that service requests are created for you.
 
+*** Before processing service call from postman, you need to select authorization & user-password properly. So When you want to make service request please select Basic Auth as authorization type. Username=admin, password: admin
+
+*** Authorization username and password is defined in the application.properties file.
+
 *** If you want to use unit tests got to BrokerageFirmChallengeApplicationTests class file and righ click and press debug in order to process unit test methods.
+
+*** When the server is starting the "src/main/resources/data.sql" file is being processed and h2 db starts to execute and then in the runtime it can be processed.
