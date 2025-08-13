@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61239d65-8cab-43ea-b196-972fae5871a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ptguzel_amadeus"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mtolgaguzel/BrokerageFirmChallenge.git",
+    "accountId": "6a5981e4-a602-4289-b3c8-34dffa44e1b9"
+  }
+}]]></component>
+  <component name="HttpClientEndpointsTabState">
+    <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;180bf34593e149806aeaedc45de802f8f2306f22&quot; value=&quot;###11&amp;#10;GET http://localhost:8080/1&quot; /&gt;&#10;  &lt;entry key=&quot;4b5c92b93fdd2c8c59b62282757023496fb78a9a&quot; value=&quot;###&amp;#10;GET http://localhost:8080/createOrder&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;customerId&amp;quot;: 0,&amp;#10;  &amp;quot;assetName&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;orderSide&amp;quot;: &amp;quot;BUY&amp;quot;,&amp;#10;  &amp;quot;size&amp;quot;: {},&amp;#10;  &amp;quot;price&amp;quot;: {},&amp;#10;  &amp;quot;status&amp;quot;: &amp;quot;PENDING&amp;quot;&amp;#10;}&quot; /&gt;&#10;  &lt;entry key=&quot;38a8f8f629da9ecdb1e82c8ce40e72d4539bfc34&quot; value=&quot;###&amp;#10;DELETE http://localhost:8080/deleteOrder/1&quot; /&gt;&#10;  &lt;entry key=&quot;538b0b69350fb5c555d6cc579953926593cd71d7&quot; value=&quot;###&amp;#10;GET http://localhost:8080/listAssets/{{customerId}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="printErrorStackTraces" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Security Analysis" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30prZqy9WMtTtqmUAVjS0SJ3sy0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AssetUnitTests.executor": "Debug",
+    "JUnit.BrokerageFirmChallengeApplicationTests.assetTests.executor": "Debug",
+    "JUnit.BrokerageFirmChallengeApplicationTests.contextLoads.executor": "Coverage",
+    "JUnit.BrokerageFirmChallengeApplicationTests.createOrder.executor": "Run",
+    "JUnit.BrokerageFirmChallengeApplicationTests.deleteOrder.executor": "Debug",
+    "JUnit.BrokerageFirmChallengeApplicationTests.executor": "Run",
+    "JUnit.BrokerageFirmChallengeApplicationTests.listAssets.executor": "Debug",
+    "JUnit.BrokerageFirmChallengeApplicationTests.listOrders.executor": "Debug",
+    "JUnit.UnitTests.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "Spring Boot.BrokerageFirmChallengeApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/BrokerageFirmChallenge/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\BrokerageFirmChallenge\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BrokerageFirmChallengeApplicationTests">
+    <configuration name="BrokerageFirmChallengeApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrokerageFirmChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tolga.brokeragefirmchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tolga.brokeragefirmchallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerageFirmChallengeApplicationTests.createOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrokerageFirmChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tolga.brokeragefirmchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tolga.brokeragefirmchallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplicationTests" />
+      <option name="METHOD_NAME" value="createOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerageFirmChallengeApplicationTests.deleteOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrokerageFirmChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tolga.brokeragefirmchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tolga.brokeragefirmchallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplicationTests" />
+      <option name="METHOD_NAME" value="deleteOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerageFirmChallengeApplicationTests.listAssets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrokerageFirmChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tolga.brokeragefirmchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tolga.brokeragefirmchallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplicationTests" />
+      <option name="METHOD_NAME" value="listAssets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerageFirmChallengeApplicationTests.listOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrokerageFirmChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tolga.brokeragefirmchallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tolga.brokeragefirmchallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplicationTests" />
+      <option name="METHOD_NAME" value="listOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerageFirmChallengeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BrokerageFirmChallenge" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tolga.brokeragefirmchallenge.BrokerageFirmChallengeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BrokerageFirmChallengeApplicationTests" />
+        <item itemvalue="JUnit.BrokerageFirmChallengeApplicationTests.listAssets" />
+        <item itemvalue="JUnit.BrokerageFirmChallengeApplicationTests.deleteOrder" />
+        <item itemvalue="JUnit.BrokerageFirmChallengeApplicationTests.createOrder" />
+        <item itemvalue="JUnit.BrokerageFirmChallengeApplicationTests.listOrders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61239d65-8cab-43ea-b196-972fae5871a7" name="Changes" comment="" />
+      <created>1754335413766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754335413766</updated>
+      <workItem from="1754335414660" duration="267000" />
+      <workItem from="1754335690406" duration="2188000" />
+      <workItem from="1754370276327" duration="2793000" />
+      <workItem from="1754381982213" duration="3000" />
+      <workItem from="1754381991219" duration="602000" />
+      <workItem from="1754500987923" duration="13000" />
+      <workItem from="1754501010291" duration="723000" />
+      <workItem from="1754501744180" duration="773000" />
+      <workItem from="1754502670816" duration="284000" />
+      <workItem from="1754502967573" duration="14422000" />
+      <workItem from="1754629010541" duration="10000" />
+      <workItem from="1754685252925" duration="18897000" />
+      <workItem from="1754798514953" duration="12736000" />
+      <workItem from="1754811287568" duration="599000" />
+      <workItem from="1754811907243" duration="188000" />
+      <workItem from="1754812106996" duration="133000" />
+      <workItem from="1754812251726" duration="344000" />
+      <workItem from="1754823227215" duration="39000" />
+      <workItem from="1754823278981" duration="8054000" />
+      <workItem from="1754888447741" duration="12496000" />
+      <workItem from="1754913576546" duration="2807000" />
+      <workItem from="1754935872355" duration="1827000" />
+      <workItem from="1754973457530" duration="2842000" />
+      <workItem from="1754976337689" duration="63000" />
+      <workItem from="1754976414022" duration="3294000" />
+      <workItem from="1755014441026" duration="14334000" />
+      <workItem from="1755099896208" duration="6332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tolga/brokeragefirmchallenge/service/OrderServiceImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BrokerageFirmChallenge$BrokerageFirmChallengeApplicationTests_contextLoads.ic" NAME="BrokerageFirmChallengeApplicationTests.contextLoads Coverage Results" MODIFIED="1754975701060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.tolga.brokeragefirmchallenge.*</FILTER>
+    </SUITE>
+  </component>
+</project>

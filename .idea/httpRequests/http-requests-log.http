@@ -1,0 +1,229 @@
+GET http://localhost:8080/listAssets/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=YzIyNzgwZWItMzNmMi00ODBmLTk0MDYtZjM3YzQ1MGU1MWE0
+
+###
+
+POST http://localhost:8080/tg/createOrder
+Content-Type: application/json
+Content-Length: 47
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=ZDE3YTA1YmEtMWUxOS00Y2JhLWEyYzQtYjgzNDExYTA3MzJi
+
+{
+  "customerId": 1,
+  "assetName": "Arcelik"
+}
+
+###
+
+POST http://localhost:8080/tg/createOrder
+Content-Type: application/json
+Content-Length: 114
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=MjJlYTVjNzEtYjAxMS00ODA2LTllM2EtYmFiNDM5MWRmZTNh
+
+{
+  "customerId": 0,
+  "assetName": "",
+  "orderSide": "BUY",
+  "size": {},
+  "price": {},
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=YjEyMzliYzgtMThiMi00ODQyLTk2MzYtY2NlZmM5YzM5ZGUz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+GET http://localhost:8080/listAssets/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=YjEyMzliYzgtMThiMi00ODQyLTk2MzYtY2NlZmM5YzM5ZGUz
+
+###
+
+DELETE http://localhost:8080/deleteOrder/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=YjEyMzliYzgtMThiMi00ODQyLTk2MzYtY2NlZmM5YzM5ZGUz
+content-length: 0
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=YjEyMzliYzgtMThiMi00ODQyLTk2MzYtY2NlZmM5YzM5ZGUz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=MDlhNmM5ZTUtYjA3Yi00MGVmLTg2OWQtYjFmNzViNDI1MjNm
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=OTY3MzQyM2MtZmU0Mi00ZWFiLWEyOWEtNjIxYmUzNGJjZjdi
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=NWU2NjU0NjQtN2NmMy00ZTM5LWEyYmYtNzA4MzEzNzRhZTAz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=NWU2NjU0NjQtN2NmMy00ZTM5LWEyYmYtNzA4MzEzNzRhZTAz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=NWU2NjU0NjQtN2NmMy00ZTM5LWEyYmYtNzA4MzEzNzRhZTAz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+POST http://localhost:8080/createOrder
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: SESSION=ZDU0N2QwMWQtNjE4Mi00NzgzLWE4MWEtZTc5ODEyZjQ2YTIz
+
+{
+  "customerId": 6,
+  "assetName": "bööööööö",
+  "orderSide": "BUY",
+  "size": 1.5,
+  "price": 2.5,
+  "status": "PENDING"
+}
+
+###
+
+GET http://localhost:8080/createOrder
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 143
+
+{
+  "customerId": 6,
+  "assetName": "bööööööööööööö",
+  "orderSide": "BUY",
+  "size": 2.5,
+  "price": 3.5,
+  "status": "PENDING"
+}
+
+###
+
