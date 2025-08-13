@@ -1,4 +1,4 @@
-*** The project has implemented with java17, spring boot, h2 DB, REST API and intellij idea ide.
+*** The project has implemented with java21, spring boot, h2 DB, REST API and intellij idea ide.
 
 *** You can pull the project using gitbash with this command:   git clone https://github.com/mtolgaguzel/BrokerageFirmChallenge.git
 
